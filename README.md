@@ -1,0 +1,4 @@
+- Frontend and Backend Developer.
+- Ferrara, ITALY.
+- Instagram: @mcc.macca
+- Twitter: @sun_solaris42 @maccacomputer
