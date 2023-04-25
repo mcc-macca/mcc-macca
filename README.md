@@ -17,6 +17,4 @@
   <h3>Working on <a class="link" href="https://maccacomputer.altervista.org/product/mcns">Macca Computer News System</a><br><hr>
   
  ![Spotify Recent Played](https://spotify-recently-played-readme.vercel.app/api?user=hkoa8gviiizh2h8bbyjukgx13)
-    <br><br>
-    <img src="https://raw.githubusercontent.com/mcc-macca/mcc-macca/blob/output/snake.svg" alt="Snake animation" />
 </div>
