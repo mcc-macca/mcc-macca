@@ -12,7 +12,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcc-macca&layout=compact&theme=transparent&hide_border=true&border_radius=15)](https://github.com/anuraghazra/github-readme-stats)
 
 [![My Skills](https://skillicons.dev/icons?i=php,javascript,java,fortran,bash,c,cs,cpp,dotnet,jquery)](https://skillicons.dev)<br>
-[![My Skills](https://skillicons.dev/icons?i=linux,matlab,mysql,nodejs,r,rust,ruby,scala)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=linux,matlab,mysql,nodejs,r,ruby,scala)](https://skillicons.dev)<br>
   
   <h3>Working on <a class="link" href="https://maccacomputer.altervista.org/product/mcns">Macca Computer News System</a><br><hr>
   
