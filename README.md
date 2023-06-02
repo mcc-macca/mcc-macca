@@ -7,7 +7,7 @@
 <img src="https://profile-counter.glitch.me/mcc-macca/count.svg?">
   #
   
-### Leanguages:<br><br>
+### Languages:<br><br>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcc-macca&layout=compact&theme=transparent&hide_border=true&border_radius=15)](https://github.com/anuraghazra/github-readme-stats)
 
