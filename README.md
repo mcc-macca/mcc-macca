@@ -14,7 +14,7 @@
 [![My Skills](https://skillicons.dev/icons?i=php,javascript,java,fortran,bash,c,cs,cpp,dotnet,jquery)](https://skillicons.dev)<br>
 [![My Skills](https://skillicons.dev/icons?i=linux,matlab,mysql,nodejs,r,ruby,scala)](https://skillicons.dev)<br>
   
-  <h3>Working on <a class="link" href="https://maccacomputer.altervista.org/product/mcns">Macca Computer News System</a><br><hr>
+  <h3>Working on <a class="link" href="https://maccacomputer.com/product/codex" target="_blank">CODEX</a><br><hr>
   
  ![Spotify Recent Played](https://spotify-recently-played-readme.vercel.app/api?user=hkoa8gviiizh2h8bbyjukgx13)
 </div>
